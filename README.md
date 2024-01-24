@@ -6,7 +6,11 @@
 ```bash
 git clone https://github.com/vtecovsky/photopoint-test
 ```
-2. Run the project in Docker
+2. Move to the directory
+```bash
+cd photopoint-test
+```
+3. Run the project in Docker
 ```bash
 docker-compose up --build
 ```
