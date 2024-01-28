@@ -14,4 +14,4 @@ cd photopoint-test
 ```bash
 docker-compose up --build
 ```
-The project will be available in **http://localhost:8000/get-current-usd/** or **http://0.0.0.0:8000/get-current-usd/**
+The project will be available at **http://localhost:8000/get-current-usd/** or **http://0.0.0.0:8000/get-current-usd/**
